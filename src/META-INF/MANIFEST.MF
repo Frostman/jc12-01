@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Premain-Class: name.slukjanov.java.agents.Agent
+Agent-Class: name.slukjanov.java.agents.Agent
+Can-Redefine-Classes: true
